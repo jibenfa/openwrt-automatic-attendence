@@ -1,5 +1,6 @@
 # wifi-auto-duty
-using bandwidthd and python scripts to record work attendance  on openwrt wifi router
+using bandwidthd and python scripts to record work attendance and network flow on openwrt wifi router
+
 利用bandwidthd和python脚本在openwrt无线路由上实现考勤功能（还可以记录每个mac的流量）。
 
 前提：  
