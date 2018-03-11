@@ -5,7 +5,7 @@ using bandwidthd and python scripts to record work attendance and network flow o
 
 前提：  
 1.openwrt 路由安装了python包和bandwidthd  
-2.登记每个接入wifi的设备的mac地址  
+2.登记每个接入wifi的设备的mac地址，默认放在/root/maclist.txt
 
 
 http(s)://路由ip/bandwidthd/qdb.html   查询考勤  
