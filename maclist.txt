@@ -1,0 +1,10 @@
+        list maclist '16:8C:91:69:76:11'    #xiaoming
+        list maclist '87:BE:56:D9:66:19'    #xiaogang
+        list maclist '16:8C:91:69:76:11'    #xiaohong
+        list maclist '61:9E:C1:9E:B7:7F'    #annie
+        list maclist 'B7:F6:1C:D7:6C:51'    #steve
+        list maclist 'FC:D8:78:99:76:6B'    #sophia
+        list maclist 'C7:85:18:C7:77:8E'    #john
+        list maclist 'BC:9D:85:59:98:51'    #lilei
+        list maclist '88:77:77:65:6F:F1'    #hanmeimei
+       
