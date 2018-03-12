@@ -1,7 +1,7 @@
-# wifi-auto-duty
+# openwrt-automatic-attendence
 using bandwidthd and python scripts to record work attendance and network flow on openwrt wifi router
 
-利用bandwidthd和python脚本在openwrt无线路由上实现考勤功能（还可以记录每个mac的流量）。
+利用bandwidthd和python脚本在openwrt无线路由上实现wifi自动考勤功能（还可以记录每个mac的流量），还可以通过路由自动发考勤至指定邮箱。
 
 前提：  
 1.openwrt 路由安装了python包和bandwidthd  
